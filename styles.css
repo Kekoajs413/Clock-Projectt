@@ -1,0 +1,26 @@
+body {
+    background: black;
+}
+.clock {
+	float:left;
+	margin-left: 400px;
+	margin-top:200px;
+	position: absolute;
+    transform: translateX() translateY();
+    color: #03fc20;
+    font-size: 60px;
+    font-family: Arial;
+    letter-spacing: 7px;
+}
+.buttonAppearance {
+	margin-left: 500px;
+	margin-top: 400px;
+	width: 100px;
+	height:50px;
+	background-color: #0339fc;
+	border-color: ##037bfc;
+	border-width: 3px;
+	border-radius: 12px;
+	outline: none;
+	font-size: 12px;
+	color:#fc3903;
